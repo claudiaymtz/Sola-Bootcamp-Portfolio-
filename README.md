@@ -4,9 +4,14 @@
 
 ## July 9, 2025
 
-## Portfoliio Overview
+## Portfolio Overview
 Collection of my work completed at Sola Cybersecurity Bootcamp.
 ## Technologies Use
+- Bash
+- GitHub
+- VS Code
+- Linux (Ubuntu)
 
-## Projects Included 
-
+## Projects Included
+- Linux Administration Project
+- Bash Scripting Projec 
