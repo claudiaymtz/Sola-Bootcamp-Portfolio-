@@ -14,4 +14,4 @@ Collection of my work completed at Sola Cybersecurity Bootcamp.
 
 ## Projects Included
 - Linux Administration Project
-- Bash Scripting Projec 
+- Bash Scripting Project
